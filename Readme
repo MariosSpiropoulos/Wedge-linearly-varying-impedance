@@ -1,0 +1,20 @@
+# Wedge with Linearly Varying Impedance
+
+This repository contains the MATLAB scripts used to generate the numerical results presented in the paper
+
+**Title:**
+Acoustic scattering around a wedge with linearly-growing-impedance surfaces and applications in aeroacoustics
+
+## Contents
+
+- MATLAB source code
+- Illustrations of acoustic monopoles, dipoles, quadrupoles 
+- Computing eigenvalues
+- auxiliary functions that are needed to run the main scripts 
+
+## Running the code
+
+Open MATLAB and run the scripts
+
+
+
